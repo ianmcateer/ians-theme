@@ -1,6 +1,7 @@
 {
     "name": "ians-theme",
     "displayName": "ians-theme",
+    "publisher": "ianmcateer",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -10,12 +11,10 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "test",
-                "uiTheme": "vs",
-                "path": "./themes/test-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "crayola light",
+            "uiTheme": "vs",
+            "path": "./themes/ian-light.json"
+        }]
     }
 }

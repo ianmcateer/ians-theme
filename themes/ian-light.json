@@ -1,5 +1,5 @@
 {
-	"name": "Slack Theme Hoth",
+	"name": "Ian Light",
 	"type": "light",
 	"colors": {
 		"foreground": "#36373B",
@@ -143,8 +143,7 @@
 		"peekViewTitleDescription.foreground": "#685C66",
 		"peekViewTitleLabel.foreground": "#2D3E4C"
 	},
-	"tokenColors": [
-		{
+	"tokenColors": [{
 			"scope": ["meta.paragraph.markdown", "string.other.link.description.title.markdown"],
 			"settings": {
 				"foreground": "#110000"
